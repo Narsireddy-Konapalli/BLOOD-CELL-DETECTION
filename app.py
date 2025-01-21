@@ -5,7 +5,7 @@ import yaml
 from PIL import Image
 from yaml.loader import SafeLoader
 
-st.title("Blood Cell Detection App")
+st.title("Blood Cell Detection")
 
 with open('data.yaml', mode='r') as f:
     data_yaml = yaml.load(f, Loader=SafeLoader)
