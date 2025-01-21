@@ -1,4 +1,0 @@
-train: /content/drive/MyDrive/BCCD/data/train
-val: /content/drive/MyDrive/BCCD/data/test
-nc: 3
-names: ['Platelets','RBC','WBC'] 
